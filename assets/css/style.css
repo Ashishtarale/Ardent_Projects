@@ -8209,6 +8209,10 @@ body{
   }
 }
 @media screen and (max-width: 480px) {
+  .archx-header-section .header-cta-btn {
+    margin-left: 30px;
+    visibility: hidden;
+  }
   .arck-main-slider-item .arck-slider-main-text h1 {
     font-size: 40px;
   }
